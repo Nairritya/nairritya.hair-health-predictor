@@ -1,1 +1,1 @@
-# nairritya.hair-health-predictor
+# hair-health-predictor
